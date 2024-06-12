@@ -1,4 +1,4 @@
-# Hi There 👋, I'm Sangeun Kim(Shen), a iOS Developer.
+# Hi There 👋, I'm Sangeun Kim(Shen), iOS Developer.
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/sangeun-kim-64657a256/)](https://www.linkedin.com/in/sangeun-kim-64657a256/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:dev.sangau20@gmail.com&style=for-the-badge)](mailto:dev.sangau20@gmail.com)
 [![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;color=dd2a7b)](https://www.instagram.com/sang_au20/)
