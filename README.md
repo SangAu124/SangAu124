@@ -31,7 +31,8 @@ I want to do my best to be humble and make the warm-hearted world. 🌎
 ---
 
 ### 💼 Work Experiences
-- 🏢 Moderntec, Researcher(`24.02.13 ~ ing`)
+- 🌏 Hodi, Researcher(`26.02.01 ~ ing`)
+- 🏢 Moderntec, Researcher(`24.02.13 ~ 26.01.31`)
 - 🪽 Ceeya, iOS Developer(`23.07.23 ~ 23.09.23`, SV.Internship)
 - 📘 B1nd, iOS Developer & Team Leader(`21.06 ~ 23.07`)
 
